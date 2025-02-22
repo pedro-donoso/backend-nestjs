@@ -5,13 +5,13 @@ export class UserService {
   private users = [
     {
       userId: 1,
-      username: 'john',
-      password: 'changeme',
+      username: 'pedro',
+      apellido: 'donoso',
     },
     {
       userId: 2,
       username: 'maria',
-      password: 'guess',
+      apellido: 'gala',
     },
   ];
 
