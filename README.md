@@ -106,22 +106,8 @@ npm run start
 
 #### 9. Verificar respuesta API (http://localhost:3000/users)
 
-```
-[
+![back](https://github.com/user-attachments/assets/7266dc28-6c3e-430e-aed0-2b713a6266f0)
 
-      {
-            "userId": 1,
-            "username": "pedro",
-            "apellido": "donoso"
-      },
-      {
-            "userId": 2,
-            "username": "maria",
-            "apellido": "gala"
-      }
-
-]
-```
 
 
 
