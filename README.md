@@ -104,7 +104,7 @@ bootstrap();
 npm run start
 ```
 
-#### 9. Verificar respuesta LOCAL Api (http://localhost:3000/users)
+#### 9. Verificar respuesta LOCAL (http://localhost:3000/users) de la API
 
 ![back](https://github.com/user-attachments/assets/7266dc28-6c3e-430e-aed0-2b713a6266f0)
 
