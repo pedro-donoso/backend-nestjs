@@ -99,7 +99,7 @@ npm run start
 
 #### 9. Verificar respuesta LOCAL (http://localhost:3000/users) de la API
 
-![back](https://github.com/user-attachments/assets/7266dc28-6c3e-430e-aed0-2b713a6266f0)
+![backend](https://github.com/user-attachments/assets/a46a73a9-5a72-4d41-aed4-29dc53f4544c)
 
 
 
