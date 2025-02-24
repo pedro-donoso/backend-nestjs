@@ -1,7 +1,7 @@
 ### 0. Descargar Proyecto
 
 ```
-git clone 
+git clone (https://github.com/pedro-donoso/backend-nestjs.git
 ```
 
 ### BACKEND NESTJS
