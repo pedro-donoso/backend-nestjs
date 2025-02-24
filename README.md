@@ -51,7 +51,7 @@ export class UserService {
 }
 ```
 
-#### 4. Crear un Controlador (src/controllers/user.controller.ts) y Manejo de errores
+#### 4. Creo una carpeta controllers con un archivo user.controller.ts y Manejo de errores
 
 ```
 import { Controller, Get, HttpException, HttpStatus } from '@nestjs/common';
