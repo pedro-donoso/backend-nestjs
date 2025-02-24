@@ -1,10 +1,16 @@
-### 0. Descargar Proyecto
-
-```
-git clone (https://github.com/pedro-donoso/backend-nestjs.git
-```
-
 ### BACKEND NESTJS
+
+#### 0. Descargar Proyecto
+
+```
+git clone https://github.com/pedro-donoso/backend-nestjs.git
+```
+
+* Agregar carpeta node_modules:
+
+```
+npm install
+```
 
 #### 1. Crear un Proyecto NestJS
 
