@@ -1,3 +1,9 @@
+### 0. Descargar Proyecto
+
+```
+git clone 
+```
+
 ### BACKEND NESTJS
 
 #### 1. Crear un Proyecto NestJS
