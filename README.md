@@ -26,15 +26,13 @@ opciones:
 
 * Creo proyecto github
 
-#### 2. Creo carpeta controllers con archivo user.controller.ts 
-
-#### 3. Elimino archivos innecesarios
+#### 2. Elimino archivos innecesarios
 
 * app.controller.spec.ts
 * app.controller.ts
 * app.service.ts
 
-#### 4. Crear una carpeta services con un archivo user.service.ts
+#### 3. Crear una carpeta services con un archivo user.service.ts
 
 ```
 import { Injectable } from '@nestjs/common';
@@ -53,7 +51,7 @@ export class UserService {
 }
 ```
 
-#### 5. Crear un Controlador (src/controllers/user.controller.ts) y Manejo de errores
+#### 4. Crear un Controlador (src/controllers/user.controller.ts) y Manejo de errores
 
 ```
 import { Controller, Get, HttpException, HttpStatus } from '@nestjs/common';
